@@ -1,0 +1,8 @@
+ckpts/
+└── sakt/
+    └── ASSIST2009/
+        ├── model_config.json    # 模型超参数
+        ├── train_config.json   # 训练超参数
+        ├── best_model.pt       # 最佳模型权重
+        ├── aucs.pkl           # AUC历史记录
+        └── loss_means.pkl     # 损失历史记录
